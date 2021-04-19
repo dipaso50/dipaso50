@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Diego</h1>
-<h3 align="left">A passionate backend developer from Barcelona</h3>
+<h3 align="left">A  backend developer from Barcelona</h3>
 
 - 📫 How to reach me **dipaso50@gmail.com**
 
